@@ -61,4 +61,4 @@ This is an example chat bot someone could create using OpenAi gpt-3.5-turbo mode
 
 ### Screenshots
 
-![Project GIF](https://images.squidge.org/image/sC5xJ)
+![Project GIF]([https://images.squidge.org/image/sC5xJ](https://images.squidge.org/image/sC5xJ))
