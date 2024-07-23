@@ -10,9 +10,6 @@ This is an example chat bot someone could create using OpenAi gpt-3.5-turbo mode
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 
