@@ -1,7 +1,5 @@
 # OpenAI ChatBot
 
-![Project Logo](link-to-logo.png)
-
 This is an example chat bot someone could create using OpenAi gpt-3.5-turbo model.
 
 ## Table of Contents
@@ -61,4 +59,6 @@ This is an example chat bot someone could create using OpenAi gpt-3.5-turbo mode
 1. Open your browser and go to `http://localhost:3000`.
 2. Type into the text box anything, press enter or send. 
 
-### Example Command
+### Screenshots
+
+![Project GIF](https://images.squidge.org/image/sC5xJ)
